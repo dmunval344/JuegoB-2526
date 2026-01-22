@@ -1,6 +1,6 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite_fish","order":1,"path":"sprites/Sprite_fish/Sprite_fish.yy",},
   ],
 }
