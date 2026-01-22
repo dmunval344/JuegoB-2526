@@ -25,7 +25,11 @@
   "resources":[
     {"id":{"name":"oPrueba","path":"objects/oPrueba/oPrueba.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+=======
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+>>>>>>> 3d8f1437e719ee7dddfed672babeb7ec783a584e
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

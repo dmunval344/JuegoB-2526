@@ -2,7 +2,11 @@
   "FolderOrderSettings":[
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
+<<<<<<< HEAD
   "ResourceOrderSettings":[
     {"name":"oPrueba","order":2,"path":"objects/oPrueba/oPrueba.yy",},
   ],
+=======
+  "ResourceOrderSettings":[],
+>>>>>>> 3d8f1437e719ee7dddfed672babeb7ec783a584e
 }
