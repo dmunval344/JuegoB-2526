@@ -5,7 +5,6 @@
     {"name":"Tileset","order":3,"path":"folders/Tileset.yy",},
   ],
   "ResourceOrderSettings":[
-
     {"name":"spr_pescador_silbando","order":19,"path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},
     {"name":"Sprite_Icon1","order":27,"path":"sprites/Sprite_Icon1/Sprite_Icon1.yy",},
     {"name":"Sprite_Icon2","order":28,"path":"sprites/Sprite_Icon2/Sprite_Icon2.yy",},
@@ -39,5 +38,6 @@
     {"name":"Sprite8_2","order":26,"path":"sprites/Sprite8_2/Sprite8_2.yy",},
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"SpriteStart","order":33,"path":"sprites/SpriteStart/SpriteStart.yy",},
   ],
 }

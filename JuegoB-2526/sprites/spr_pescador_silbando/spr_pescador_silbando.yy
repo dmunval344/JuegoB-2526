@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":232,
   "bbox_left":59,
-  "bbox_right":199,
+  "bbox_right":248,
   "bbox_top":27,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -14,6 +14,8 @@
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"1ab2b53e-0d22-40e8-aefb-5d2c72c70334","name":"1ab2b53e-0d22-40e8-aefb-5d2c72c70334","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"59f4f64d-5a14-4946-8395-5fed39f6f27b","name":"59f4f64d-5a14-4946-8395-5fed39f6f27b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"523eea47-7cc3-4aa6-98c7-bd1e4001fb09","name":"523eea47-7cc3-4aa6-98c7-bd1e4001fb09","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"de2cc193-8e44-481a-ad04-276965aa23bf","name":"de2cc193-8e44-481a-ad04-276965aa23bf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -50,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -75,6 +77,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"59f4f64d-5a14-4946-8395-5fed39f6f27b","path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"11e6ee8e-001e-4315-8bc0-306190a0586f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"523eea47-7cc3-4aa6-98c7-bd1e4001fb09","path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e91bf6c3-7969-422c-934e-7255369d65cd","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"de2cc193-8e44-481a-ad04-276965aa23bf","path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"254a7709-c411-466a-8e96-17bef33f4eed","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
