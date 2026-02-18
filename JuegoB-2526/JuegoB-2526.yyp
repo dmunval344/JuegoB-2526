@@ -24,6 +24,8 @@
   "name":"JuegoB-2526",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_pescador_silbando","path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},},
+
     {"id":{"name":"Sprite_Icon1","path":"sprites/Sprite_Icon1/Sprite_Icon1.yy",},},
     {"id":{"name":"Sprite_Icon2","path":"sprites/Sprite_Icon2/Sprite_Icon2.yy",},},
     {"id":{"name":"Sprite_Icon3","path":"sprites/Sprite_Icon3/Sprite_Icon3.yy",},},
