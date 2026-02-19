@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"fonts","order":4,"path":"folders/fonts.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tileset","order":3,"path":"folders/Tileset.yy",},
@@ -30,8 +31,10 @@
     {"name":"Sprite22","order":35,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite3_2","order":21,"path":"sprites/Sprite3_2/Sprite3_2.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite39","order":36,"path":"sprites/Sprite39/Sprite39.yy",},
     {"name":"Sprite4_3","order":22,"path":"sprites/Sprite4_3/Sprite4_3.yy",},
     {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite40","order":38,"path":"sprites/Sprite40/Sprite40.yy",},
     {"name":"Sprite5_2","order":23,"path":"sprites/Sprite5_2/Sprite5_2.yy",},
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Sprite6_2","order":24,"path":"sprites/Sprite6_2/Sprite6_2.yy",},
@@ -42,5 +45,6 @@
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"SpriteStart","order":33,"path":"sprites/SpriteStart/SpriteStart.yy",},
+    {"name":"TileSet2","order":37,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],
 }
