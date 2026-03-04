@@ -7,6 +7,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"spr_pescador_silbando","order":19,"path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},
     {"name":"Sprite_Icon1","order":27,"path":"sprites/Sprite_Icon1/Sprite_Icon1.yy",},
     {"name":"Sprite_Icon2","order":28,"path":"sprites/Sprite_Icon2/Sprite_Icon2.yy",},
