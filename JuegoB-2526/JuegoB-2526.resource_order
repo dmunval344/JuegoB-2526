@@ -48,6 +48,5 @@
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"SpriteStart","order":33,"path":"sprites/SpriteStart/SpriteStart.yy",},
-    {"name":"TileSet2","order":37,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],
 }
