@@ -1,12 +1,13 @@
 {
   "FolderOrderSettings":[
-    {"name":"fonts","order":4,"path":"folders/fonts.yy",},
-    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
+    {"name":"fonts","order":1,"path":"folders/fonts.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"Tileset","order":3,"path":"folders/Tileset.yy",},
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
+    {"name":"Tileset","order":5,"path":"folders/Tileset.yy",},
   ],
   "ResourceOrderSettings":[
+
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
  
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
@@ -59,5 +60,9 @@
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"SpriteStart","order":33,"path":"sprites/SpriteStart/SpriteStart.yy",},
+
+    {"name":"Room1","order":6,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Sprite_pescador_pescando","order":1,"path":"sprites/Sprite_pescador_pescando/Sprite_pescador_pescando.yy",},
+ 118340b0f882e7edc8972362d729a257dc0fc092
   ],
 }

@@ -3,7 +3,11 @@
   "%Name":"Object1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":18,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+ 118340b0f882e7edc8972362d729a257dc0fc092
   ],
   "managed":true,
   "name":"Object1",
@@ -20,7 +24,7 @@
   "physicsGroup":1,
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
-  "physicsObject":true,
+  "physicsObject":false,
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
