@@ -1,13 +1,23 @@
 {
   "FolderOrderSettings":[
     {"name":"fonts","order":4,"path":"folders/fonts.yy",},
+    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tileset","order":3,"path":"folders/Tileset.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+ 
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+
+
+    {"name":"Room2","order":5,"path":"rooms/Room2/Room2.yy",},
+
+    {"name":"Title","order":2,"path":"objects/Title/Title.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+
+ ac9f8184c1a4779acb89f12266ad7d126eae0e31
     {"name":"spr_pescador_silbando","order":19,"path":"sprites/spr_pescador_silbando/spr_pescador_silbando.yy",},
     {"name":"Sprite_Icon1","order":27,"path":"sprites/Sprite_Icon1/Sprite_Icon1.yy",},
     {"name":"Sprite_Icon2","order":28,"path":"sprites/Sprite_Icon2/Sprite_Icon2.yy",},
@@ -49,6 +59,5 @@
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"SpriteStart","order":33,"path":"sprites/SpriteStart/SpriteStart.yy",},
-    {"name":"TileSet2","order":37,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],
 }

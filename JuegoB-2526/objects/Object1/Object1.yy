@@ -20,11 +20,16 @@
   "physicsGroup":1,
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
-  "physicsObject":false,
+  "physicsObject":true,
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[],
+  "physicsShapePoints":[
+    {"x":0.0,"y":0.0,},
+    {"x":467.0,"y":0.0,},
+    {"x":467.0,"y":270.0,},
+    {"x":0.0,"y":270.0,},
+  ],
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"sprite_index","filters":[],"listItems":[],"multiselect":false,"name":"sprite_index","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sprite_index","varType":4,},
