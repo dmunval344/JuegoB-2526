@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings":[
     {"name":"fonts","order":4,"path":"folders/fonts.yy",},
-    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tileset","order":3,"path":"folders/Tileset.yy",},
   ],
