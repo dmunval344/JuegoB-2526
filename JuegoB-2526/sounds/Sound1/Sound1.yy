@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"Sound1",
   "parent":{
-    "name":"JuegoB-2526",
-    "path":"JuegoB-2526.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
